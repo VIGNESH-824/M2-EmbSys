@@ -2,4 +2,4 @@
 
 ## The topics for my case studies are as follows:
 * Lithium ion Battery Management System. (BMS)
-* Yet to be decided
+* Motor Controller. (PMSM MC)
