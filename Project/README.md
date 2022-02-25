@@ -1,6 +1,9 @@
 # Project Abstract
-Batteries are the most important propellant today. With increasing power density, the
-volatility of the batteries increase. There have been many cases of spontaneous outbreak of fire
+Batteries are the most important propellant today. 
+
+With increasing power density, the volatility of the batteries increase. 
+
+There have been many cases of spontaneous outbreak of fire
 through such batteries for example, The most widespread example of this is the Lithium ion
 batteries, which is applied in applications from inverters at home to powerful power sources for
 vehicles each one of which requires very high levels of safety. Lithium ion batteries need intricate
