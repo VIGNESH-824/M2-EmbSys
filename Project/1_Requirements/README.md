@@ -7,3 +7,4 @@ constrained to a **"Battery Monitoring System"**.
 
 ## The BMS implementation has the following Requirements:
 ![image](https://user-images.githubusercontent.com/98948359/155757249-9891250d-95a7-48e8-bdf9-0291b57050d8.png)
+![image](https://user-images.githubusercontent.com/98948359/155759803-64223665-9dc5-478f-a4e2-7898ba41dbda.png)
