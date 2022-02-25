@@ -8,7 +8,7 @@ monitoring of the incoming and outgoing charge. When the each lithium ion cell i
 series or parallel configuration the resultant battery pack as a whole should charge and discharge
 equally thereby preserving its state of health and protecting from over-discharge or charge.* 
 
-*Battery Management system (to be referred as BMS) serves the following purpose.*
+***Battery Management system (to be referred as BMS) serves the following purpose.***
 - *Prevent cells from over-current.*
 - *Prevent cells from under-voltage.*
 - *Prevent cells from high temperature thermal runaway.*
