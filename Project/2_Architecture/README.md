@@ -1,1 +1,3 @@
-This is the UML Diagram and the flow diagram of my project
+## System Architecture
+
+![BMS!](Project\2_Architecture\BMS_block_diagram.png)
