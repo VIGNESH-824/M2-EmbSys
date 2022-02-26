@@ -15,7 +15,7 @@ equally thereby preserving its state of health and protecting from over-discharg
 - *Balance each and every cell in the battery pack for the same amount of charge.*
 - *Data logging of current and voltage data.*
 
-![3s-bms](https://user-images.githubusercontent.com/98948359/155830784-a46a6e0a-9ab5-4c9e-a89c-1a9269612c93.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/98948359/155830784-a46a6e0a-9ab5-4c9e-a89c-1a9269612c93.jpg" width="100" height="100">
 
 ## Repository structure
 - *1_Requirements has all the High level and Low Level requirements of the project*
