@@ -1,1 +1,1 @@
-This has all the Unit tests and the test plans for valodation of my project.
+This has all the Unit tests and the test plans for validation of my project.
