@@ -1,4 +1,5 @@
-## The proposed system is a Battery Management System which has a capacity to monitor and Balance the 3 cells in series
+## About the Project
+The proposed system is a Battery Management System which has a capacity to monitor and Balance the 3 cells in series
 
 ## The Schematic of the proposed system is shown below: 
 ![BMS_Schematics](https://user-images.githubusercontent.com/98948359/156881342-1f6e0167-4342-4d5f-876d-5fae2a6d44ec.png)
