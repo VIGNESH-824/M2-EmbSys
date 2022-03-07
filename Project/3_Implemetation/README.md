@@ -11,6 +11,7 @@ The proposed system is a Battery Management System which has a capacity to monit
 ![BMS_board](https://user-images.githubusercontent.com/98948359/156881512-d89736a5-5878-4490-8331-da88247d776e.png)
 
 ## The code for the Battery Management System is given below:
+```
 #define V_pin1     A3
 #define V_pin2     A2
 #define V_pin3     A1
@@ -94,3 +95,4 @@ void loop() {
     fanspeed_reg(conv_temp1, conv_temp2);
   
 }
+```
