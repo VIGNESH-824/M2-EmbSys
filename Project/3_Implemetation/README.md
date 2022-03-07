@@ -2,7 +2,7 @@
 The proposed system is a Battery Management System which has a capacity to monitor and Balance the 3 cells in series
 
 ## The project has been validated by the simulation shown below using SimulIDE:
-![Simulation circuit Diagram](https://user-images.githubusercontent.com/98948359/157014241-8002b61e-13cb-4d5e-8798-c9d8c206ca2f.png)
+![Simulation circuit Diagram](https://user-images.githubusercontent.com/98948359/157057928-11fa696b-bbfe-46ab-b626-0391cbb54b7e.png)
 
 ## The Schematic of the proposed system is shown below: 
 ![BMS_Schematics](https://user-images.githubusercontent.com/98948359/156881342-1f6e0167-4342-4d5f-876d-5fae2a6d44ec.png)
