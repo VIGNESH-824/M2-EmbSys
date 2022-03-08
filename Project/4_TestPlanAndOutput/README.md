@@ -1,8 +1,9 @@
 ## Test Plans
 For this module we need to understand the different types of components used:
 
-**1. Temperature Sensor (NTC type 10K)**
-**2. Voltage Sensor (Connected to the Nickel contact of Li-ion Battery)**
+**1. Temperature Sensor (NTC type 10K).**
+
+**2. Voltage Sensor (Connected to the Nickel contact of Li-ion Battery).**
 
 * The first part is to test the thermistors, i.e Potentiometer at the top right of the project
 
